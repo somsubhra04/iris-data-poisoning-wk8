@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jupyter/iris-data-poisoning-wk8/mlruns/724670990113470505/cbe1ffe4cedb4aeca1b0b97b7a6d33de/artifacts
+end_time: 1762766710517
+entry_point_name: ''
+experiment_id: '724670990113470505'
+lifecycle_stage: active
+run_id: cbe1ffe4cedb4aeca1b0b97b7a6d33de
+run_name: 50Pct_Poisoning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762766706447
+status: 3
+tags: []
+user_id: jupyter

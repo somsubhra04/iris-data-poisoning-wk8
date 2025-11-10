@@ -1,0 +1,22 @@
+artifact_path: file:///home/jupyter/iris-data-poisoning-wk8/mlruns/724670990113470505/models/m-87b561361e944401a2d0a21b65625a2f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-87b561361e944401a2d0a21b65625a2f
+model_size_bytes: 975
+model_uuid: m-87b561361e944401a2d0a21b65625a2f
+prompts: null
+run_id: e9361484a22743db828f567ccfc5dda5
+utc_time_created: '2025-11-10 09:24:43.314074'

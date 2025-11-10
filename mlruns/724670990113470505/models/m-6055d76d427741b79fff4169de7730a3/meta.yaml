@@ -1,0 +1,10 @@
+artifact_location: file:///home/jupyter/iris-data-poisoning-wk8/mlruns/724670990113470505/models/m-6055d76d427741b79fff4169de7730a3/artifacts
+creation_timestamp: 1762766698647
+experiment_id: '724670990113470505'
+last_updated_timestamp: 1762766701669
+model_id: m-6055d76d427741b79fff4169de7730a3
+model_type: null
+name: model
+source_run_id: 029d9c33604a41619d4c09c37d26c501
+status: 2
+status_message: null
